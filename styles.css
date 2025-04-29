@@ -1,0 +1,11 @@
+:root {
+    --primary: #00ff88;
+    --secondary: #ff3366;
+    --dark: #121212;
+    --light: #ffffff;
+    --nav-bg: rgba(18, 18, 18, 0.9);
+    --neon-glow: 0 0 10px var(--primary), 0 0 20px var(--primary), 0 0 30px var(--primary);
+    --text-glow: 0 0 5px var(--primary);
+}
+
+/* ... existing CSS rules from index.html ... */
